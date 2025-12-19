@@ -1,0 +1,15 @@
+what is data structure ?
+
+bookish defination needed.
+mathematical and logical storing of data is called data structure
+linear- array, stack, que
+non linear- tree, 
+all complexity.
+what is time space complexity?
+5 types- Big O, small O, theta, Omega and small Omega.
+
+find the value of nth location of array? using formula.
+
+five to 6  real life examples of your own domain of stack and Que
+
+is binary search possible through LinkedList.
