@@ -13,3 +13,13 @@ find the value of nth location of array? using formula.
 five to 6  real life examples of your own domain of stack and Que
 
 is binary search possible through LinkedList.
+
+opps concepts and 20 questions based on this
+constructor and destructor 
+inheritance
+abstract class anf func
+threads- multiple threads
+packages
+interfaces
+file handling
+exceptional handling
